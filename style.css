@@ -1,0 +1,47 @@
+body {
+     font-family: Arial,
+sans-serif;
+    background-color: #f0eaff; 
+    color:#333;
+    line-height: 1.6;
+    magging: 0;
+    padding: 0;
+}
+
+h1  {
+    color : #005fa3
+    line-height: 1.6;
+    magging: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h2 {
+  color: purple;
+}
+
+p  {
+     text-align:left;
+     font-size:18px;
+     line-height:1.6;
+}
+
+a  {
+     display: inline-block;
+     padding: 10px 20px
+     margin: 10px
+     background-color: #0077cc
+     color: white
+     border-radius: 5px
+}
+
+a: hover {
+    background-color: #005fa3;
+    text-decoration: underline;
+}
+
+main  {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 40px 20px;
+}
